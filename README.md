@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jacob Rose
 - 👀 I’m interested in Web Dev, Game Dev and App Dev
 - 🌱 I’m currently learning Kotlin to learn Android app development. I also have been learning Angular for web development. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can email me at jacobdanielrose@gmail.com
+
 
 <!---
 jacobdanielrose/jacobdanielrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
