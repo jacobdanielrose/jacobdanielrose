@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Rose
-- 👀 I’m interested in Game Dev, Web Dev, and App Dev
-- 🌱 As well as updating previously created Fullstack Javascript projects, I am currently build a multiplayer game on Unreal Engine. 
-- 📫 How to reach me: you can email me at jacobdanielrose@gmail.com
+- 👀 I’m interested in IT Operations, Web Development, and Pentesting!
+- 🌱 I am developing my pentesting skills, operations skills, and refactoring old web projects
+- 📫 How to reach me: you can email me at jacobdanielrose@protonmail.com
 
 
 <!---
