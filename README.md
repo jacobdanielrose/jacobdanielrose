@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jacob Rose
-- 👀 I’m interested in IT Operations, Web Development, and Pentesting!
-- 🌱 I am developing my pentesting skills, operations skills, and refactoring old web projects
 - 📫 How to reach me: you can email me at jacobdanielrose@protonmail.com
 
 
